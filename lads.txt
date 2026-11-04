@@ -1,0 +1,8 @@
+strContent = MOD ĐƯỢC TẠO BỞI YTB "Kiana Mod AOV"
+hasCancelBtn = true
+onConfirm = nil
+onCancel = nil
+confirmStr = Đã Hiểu
+cancelStr = Đã Hiểu
+titleStr = KIANA MOD AOV
+isShowCloseBtn = true
