@@ -1,8 +1,8 @@
-strContent = MOD ĐƯỢC TẠO BỞI YTB "Kiana Mod AOV"
+strContent = <b>Mod được tạo bởi youtuber</b> <color=#FFD700><b>KIANA MOD AOV</b></color>
 hasCancelBtn = true
-onConfirm = nil
-onCancel = nil
-confirmStr = Đã Hiểu
-cancelStr = Đã Hiểu
+onConfirm = https://www.youtube.com/@kianamodaov
+onCancel = https://kianamod.site
+confirmStr = Youtube
+cancelStr = Web Mod
 titleStr = KIANA MOD AOV
 isShowCloseBtn = true
